@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: graphs | Dana Brooks]]></title>
+  <link href="http://iamdana.github.io/blog/categories/graphs/atom.xml" rel="self"/>
+  <link href="http://iamdana.github.io/"/>
+  <updated>2015-02-18T04:50:22-05:00</updated>
+  <id>http://iamdana.github.io/</id>
+  <author>
+    <name><![CDATA[Dana Brooks]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Foreign Language Proficiency at US Intelligence Agencies]]></title>
+    <link href="http://iamdana.github.io/blog/2013/09/01/foreign-language-proficiency-at-us-intelligence-agencies/"/>
+    <updated>2013-09-01T04:17:00-04:00</updated>
+    <id>http://iamdana.github.io/blog/2013/09/01/foreign-language-proficiency-at-us-intelligence-agencies</id>
+    <content type="html"><![CDATA[<p>According to <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2013/08/29/spy-agencies-have-fewer-than-2000-people-proficient-in-middle-eastern-languages/">this article</a>, US spy agencies employ fewer than 2000 people proficient in Middle Eastern languages.</p>
+
+<p>Spanish speakers outnumber Arabic by a more than 2-to-1 margin. But I&rsquo;m not surprised. We share a border with Mexico and immigration and the &ldquo;War on Drugs&rdquo; are just as important (maybe more so), as the &ldquo;War on Terrorism&rdquo;.</p>
+
+<p>What surprises me is this &mdash; why do we have more French speakers than Russian or Korean?</p>
+
+<p><img src="/images/foreign.png"></p>
+]]></content>
+  </entry>
+  
+</feed>

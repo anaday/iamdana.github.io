@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: aljazeera | Dana Brooks]]></title>
+  <link href="http://iamdana.github.io/blog/categories/aljazeera/atom.xml" rel="self"/>
+  <link href="http://iamdana.github.io/"/>
+  <updated>2015-02-18T04:50:22-05:00</updated>
+  <id>http://iamdana.github.io/</id>
+  <author>
+    <name><![CDATA[Dana Brooks]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Al Jazeera America Debuts]]></title>
+    <link href="http://iamdana.github.io/blog/2013/08/19/al-jazeera-america-debuts/"/>
+    <updated>2013-08-19T21:06:00-04:00</updated>
+    <id>http://iamdana.github.io/blog/2013/08/19/al-jazeera-america-debuts</id>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/aljlogo.png" title="&ldquo;Logo&rdquo;" ></p>
+
+<p>After acquiring Current TV earlier this year, <a href="http://america.aljazeera.com/" title="Al Jazeera America">Al Jazeera</a> is set to debut in the US. The programming schedule includes a day filled with live news coverage. The evening lineup features <a href="http://america.aljazeera.com/watch/shows/america-tonight.html" title="America Tonight">America Tonight</a>, the flagship magazine program hosted by award-winning journalist Joie Chen.</p>
+
+<!-- more -->
+
+
+<p>Chen isn&rsquo;t the only TV news journalist making the move from one of the major networks. Former NBC news host John Seigenthaler will anchor the primetime news. Ali Velshi will develop and host a program focused on business. Velshi was CNN&rsquo;s Chief Business Correspondent. And former CNN anchor Soledad O'Brien signed on as a special correspondent. Her production company will contribute short-form segments to &ldquo;America Tonight&rdquo;.</p>
+
+<p><img class="right" src="/images/nous.png" title="&ldquo;&lsquo;No content available message&rsquo; displayed to website visitors from the US&rdquo;" >
+In a move to appease the cable gods, Al Jazeera is now blocking visitors located in the US from accessing its international feed and news videos on YouTube. Tough luck if you either 1) don&rsquo;t have cable or 2) your cable company doesn&rsquo;t off the channel.</p>
+
+<p>If you live in the US and would still like to access <a href="http://www.aljazeera.com/watch_now/" title="Live Stream">Al Jazeera&rsquo;s live stream</a> or <a href="http://www.youtube.com/user/AlJazeeraEnglish" title="AJE YouTube Channel">YouTube videos</a>, you&rsquo;d need to sign up with a VPN (virtual private network) provider that operates servers located outside the US. I use <a href="http://www.vpnbook.com" title="VPNBOOK">VPNBook</a>. They offer fast, unlimited service for free and it&rsquo;s ad-free, so no banners or pop-ups to contend with while you watch.</p>
+
+<p><strong>Initial Programming Schedule</strong><br/>
+Inside Story – Weekdays 5pm ET / 2pm PT<br/>
+Real Money With Ali Velshi – Weekdays 7pm ET / 4pm PT<br/>
+The Stream – Weekdays 7:30pm ET / 4:30pm PT<br/>
+Nightly News &ndash; Monday &ndash; Sunday 8pm ET
+America Tonight  – Weekdays 9pm ET &amp; PT<br/>
+Consider This – Weekdays 10pm ET &amp; PT<br/>
+Fault Lines – Sundays 7pm ET / 4pm PT &amp; Fridays 9:30pm ET / 6:30pm PT<br/>
+TechKnow – Sundays 7:30pm ET / 4:30pm PT</p>
+]]></content>
+  </entry>
+  
+</feed>

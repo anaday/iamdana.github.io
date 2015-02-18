@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Seattle Storm | Dana Brooks]]></title>
+  <link href="http://iamdana.github.io/blog/categories/seattle-storm/atom.xml" rel="self"/>
+  <link href="http://iamdana.github.io/"/>
+  <updated>2015-02-18T04:50:22-05:00</updated>
+  <id>http://iamdana.github.io/</id>
+  <author>
+    <name><![CDATA[Dana Brooks]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Seattle Storm iPhone App]]></title>
+    <link href="http://iamdana.github.io/blog/2013/04/15/seattle-storm-iphone-app/"/>
+    <updated>2013-04-15T12:57:00-04:00</updated>
+    <id>http://iamdana.github.io/blog/2013/04/15/seattle-storm-iphone-app</id>
+    <content type="html"><![CDATA[<p>Are you a Seattle Storm fan? <a href="http://itunes.apple.com/us/app/stormfanapp/id461236927?ls=1&amp;mt=8" title="Download app">Get the iPhone app today</a> from Apple App Store.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/10073988/assets/storm.png" title="Seatte Storm iPhone App" alt="" /></p>
+
+<h3>Features:</h3>
+
+<ul>
+<li>Latest news from Storm blogs</li>
+<li>Official Seattle Storm Twitter feed</li>
+<li>Player and coach bios</li>
+<li>Season schedule with links to boxscores</li>
+<li>League standings</li>
+<li>Official Youtube video channel</li>
+<li>Share articles with Email and Facebook</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
